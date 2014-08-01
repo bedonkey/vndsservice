@@ -15,9 +15,7 @@ vndsservice
 		
 * Guide
 
-	Check 
-	
-		host:port/vndsService/rest/hello/masterorslave 
+	Check to see if it's a master or slave.
 
-	to see if it's a master or slave.
+		host:port/vndsService/rest/hello/masterorslave 
 
