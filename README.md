@@ -14,5 +14,10 @@ vndsservice
 		mvn clean install
 		
 * Guide
-	Check host:port/vndsService/rest/hello/masterorslave to see if it's a master or slave.
+
+	Check 
+	
+		host:port/vndsService/rest/hello/masterorslave 
+
+	to see if it's a master or slave.
 
